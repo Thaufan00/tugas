@@ -1,0 +1,6 @@
+D:\sharddevelopfile\tugas1.1console\tugas1.1console\bin\Debug\tugas1.1console.exe.config
+D:\sharddevelopfile\tugas1.1console\tugas1.1console\bin\Debug\tugas1.1console.exe
+D:\sharddevelopfile\tugas1.1console\tugas1.1console\bin\Debug\tugas1.1console.pdb
+D:\sharddevelopfile\tugas1.1console\tugas1.1console\obj\Debug\tugas1.1console.csprojResolveAssemblyReference.cache
+D:\sharddevelopfile\tugas1.1console\tugas1.1console\obj\Debug\tugas1.1console.exe
+D:\sharddevelopfile\tugas1.1console\tugas1.1console\obj\Debug\tugas1.1console.pdb
