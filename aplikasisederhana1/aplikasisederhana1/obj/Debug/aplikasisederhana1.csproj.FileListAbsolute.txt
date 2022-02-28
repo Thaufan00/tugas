@@ -1,0 +1,8 @@
+D:\sharddevelopfile\aplikasisederhana1\aplikasisederhana1\bin\Debug\aplikasisederhana1.exe.config
+D:\sharddevelopfile\aplikasisederhana1\aplikasisederhana1\bin\Debug\aplikasisederhana1.exe
+D:\sharddevelopfile\aplikasisederhana1\aplikasisederhana1\bin\Debug\aplikasisederhana1.pdb
+D:\sharddevelopfile\aplikasisederhana1\aplikasisederhana1\obj\Debug\aplikasisederhana1.csprojResolveAssemblyReference.cache
+D:\sharddevelopfile\aplikasisederhana1\aplikasisederhana1\obj\Debug\aplikasisederhana1.MainForm.resources
+D:\sharddevelopfile\aplikasisederhana1\aplikasisederhana1\obj\Debug\aplikasisederhana1.csproj.GenerateResource.Cache
+D:\sharddevelopfile\aplikasisederhana1\aplikasisederhana1\obj\Debug\aplikasisederhana1.exe
+D:\sharddevelopfile\aplikasisederhana1\aplikasisederhana1\obj\Debug\aplikasisederhana1.pdb
