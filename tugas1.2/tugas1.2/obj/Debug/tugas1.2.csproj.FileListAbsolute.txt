@@ -1,0 +1,6 @@
+D:\sharddevelopfile\tugas1.2\tugas1.2\bin\Debug\tugas1.2.exe.config
+D:\sharddevelopfile\tugas1.2\tugas1.2\bin\Debug\tugas1.2.exe
+D:\sharddevelopfile\tugas1.2\tugas1.2\bin\Debug\tugas1.2.pdb
+D:\sharddevelopfile\tugas1.2\tugas1.2\obj\Debug\tugas1.2.csprojResolveAssemblyReference.cache
+D:\sharddevelopfile\tugas1.2\tugas1.2\obj\Debug\tugas1.2.exe
+D:\sharddevelopfile\tugas1.2\tugas1.2\obj\Debug\tugas1.2.pdb
